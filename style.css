@@ -1,0 +1,23 @@
+.main-heading {
+  color: green;
+}
+h1{
+  color: red;
+
+}
+#main-image img {
+  width: 500px;
+}
+#ralfas img {
+  width: 1000px;
+}
+.main {
+  color:red;
+  width: 250px;
+
+}
+.heading-second {
+  color: yellow;
+  widht: 100px;
+  margin-left: inherit;
+}
